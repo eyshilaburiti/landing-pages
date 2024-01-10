@@ -7,7 +7,7 @@ Jornada promovida pela Rocketseat com a finalidade de desenvolver 03 landing pag
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
 </p>
 
 <br>
@@ -25,13 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-### Horror Game LP
-![Horror Game LP](/views/LP01.png)
-### Travel Expert LP
-![Travel Expert LP](/views/LP02.png)
-### Healthy Recipes LP
-![Healthy Recipes LP](/views/LP03.png)
-
----
-
-Copyright © 2023 [Eyshila Buriti](https://github.com/eyshilaburiti) & [Rocketseat](https://github.com/Rocketseat).<br />
+| [Horror Game LP](/Horror%20Game%20LP/) | [Travel Expert LP](/Travel%20Expert%20LP/) | [Healthy Recipes LP](/Healthy%20Recipes%20LP/) |
+| :---: | :---: | :---: |
+| ![Horror Game LP](/views/LP01.png) | ![Travel Expert LP](/views/LP02.png) | ![Healthy Recipes LP](/views/LP03.png) |
